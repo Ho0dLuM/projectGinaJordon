@@ -4,3 +4,13 @@ body {
 h1.title {
   text-align: center;
 }
+.titleImage {
+  display: block;
+  margin: auto;
+}
+#movieGenre {
+  width: 20%;
+}
+#moviePoster {
+  padding-left: 3%;
+}
